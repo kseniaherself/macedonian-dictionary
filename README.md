@@ -1,4 +1,4 @@
-# macedonian-dictionary 
+# Macedonian dictionary scraping 
 
 The repository contains R-code and .tcv table. R-code is for data scraping. It forms table-type file macedonian.tcv based on data from [*http://makedonski.info*](http://makedonski.info).
  
