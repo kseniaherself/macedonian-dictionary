@@ -22,3 +22,8 @@ But the problem comes when there is a lack of a certain tag: all meanings in the
 ## .tcv table 
 
 
+
+### Authors 
+* **George Moroz** 
+* **Ksenia Romanova** 
+See also the list of [contributors]() who participated in this project.
