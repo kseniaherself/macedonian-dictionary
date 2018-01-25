@@ -27,4 +27,4 @@ But the problem comes when there is a lack of a certain tag: all meanings in the
 * **George Moroz** 
 * **Ksenia Romanova** 
 
-See also the list of [contributors]() who participated in this project.
+See also the list of [contributors]().
