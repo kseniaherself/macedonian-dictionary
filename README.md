@@ -18,3 +18,7 @@ With links from the first part we extract vocabulary information about lexemes f
 As the result we get a table with lines for each dictionary entry with lexeme links in first column and other information in other columns. 
 In cases of  polysemantic word, every not-first meaning is separated with separator NEXT_MEANING. 
 But the problem comes when there is a lack of a certain tag: all meanings in the cell move up 
+
+## .tcv table 
+
+
