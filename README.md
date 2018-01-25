@@ -21,9 +21,21 @@ But the problem comes when there is a lack of a certain tag: all meanings in the
 
 ## .tcv table 
 
+The dictionary is a table where lines are for dictionary entries and columns for articles' content. 
+It has 54475 lines: first line for columns names, (=54474 dictionary entries) and 11 columns. 
+* in the firs column there are links to the dictionary articles, 
+* second column contains example of inflected form (tag *flexion*), 
+* in the third — grammatical information (tag *grammar*), 
+* in the fourth — definition(s) (tag *definition*), 
+* in the fivth — translations to foreign languages (English, Turkish, Albanian and some others) (tag *translation*), 
+* in the sixth — commentaries about usage (tag *used*), 
+* in the seventh — example of usage (tag *example*), 
+* in the eighth — connected links (tag *semem_links*), 
+* in the ninth — examples of idioms and its usage (tag *idiom*), 
+* in the tenth — the word's derivates (tag *derivation*), 
+* in the eleventh — word (lexeme) 
 
-
-### Authors 
+## Authors 
 * **George Moroz** 
 * **Ksenia Romanova** 
 
