@@ -41,4 +41,4 @@ It has 54475 lines: first line for columns names, (=54474 dictionary entries) an
 * **George Moroz** 
 * **Ksenia Romanova** 
 
-See also the list of [contributors]().
+See also the list of [contributors](https://github.com/xenicR/macedonian-dictionary/graphs/contributors).
