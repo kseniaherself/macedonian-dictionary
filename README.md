@@ -13,7 +13,7 @@ then we extract words' menu and form links for each menu string
 As the result of the firs part we form links for all lexemes, presented in the dictionary 
 *link example* 
 <http://makedonski.info/show/крштење> 
-
+<http://makedonski.info/show/крштење>
 
 In the second part we proceed to scraping. 
 With links from the first part we extract vocabulary information about lexemes from each page.  
