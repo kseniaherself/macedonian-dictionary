@@ -14,7 +14,7 @@ then we extract words' menu and form links for each menu string, from those link
 As the result of the firs part we form links for all lexemes, presented in the dictionary  
 `link example: <http://makedonski.info/show/крштење>` 
 
-In the second part we proceed to scraping. 
+In the second part we proceed to scraping.  
 With links from the first part we extract vocabulary information about lexemes from each page.  
 As the result we get a table with lines for each dictionary entry with lexeme links in first column and other information in other columns. 
 In cases of  polysemantic word, every not-first meaning is separated with separator NEXT_MEANING. 
