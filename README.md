@@ -14,6 +14,7 @@ As the result of the firs part we form links for all lexemes, presented in the d
 *link example* 
 <http://makedonski.info/show/крштење> 
 <http://makedonski.info/show/крштење>
+<https://www.markdownguide.org>
 
 In the second part we proceed to scraping. 
 With links from the first part we extract vocabulary information about lexemes from each page.  
