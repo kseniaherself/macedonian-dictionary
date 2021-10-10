@@ -11,7 +11,7 @@ In the first part we form links to web-pages for each letter
 then we extract words' menu and form links for each menu string 
 <link example http://makedonski.info/letter/к/крштелен/кубира>, from those links we extract lexemes. 
 As the result of the firs part we form links for all lexemes, presented in the dictionary 
-link example <http://makedonski.info/show/крштење>
+*link example* < http://makedonski.info/show/крштење >
 
 In the second part we proceed to scraping. 
 With links from the first part we extract vocabulary information about lexemes from each page.  
