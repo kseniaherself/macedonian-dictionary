@@ -7,7 +7,7 @@ The repository contains R-code and .tcv table. R-code is for data scraping. It f
 
 The program has two parts. 
 In the first part we form links to web-pages for each letter 
->link example <http://makedonski.info/letter/к>, 
+`link example` <http://makedonski.info/letter/к>, 
 then we extract words' menu and form links for each menu string 
 <link example http://makedonski.info/letter/к/крштелен/кубира>, from those links we extract lexemes. 
 As the result of the firs part we form links for all lexemes, presented in the dictionary 
