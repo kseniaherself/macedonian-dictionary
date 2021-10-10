@@ -9,8 +9,8 @@ The program has two parts.
 
 In the first part we form links to web-pages for each letter  
 `link example: <http://makedonski.info/letter/к>`,  
-then we extract words' menu and form links for each menu string  
-`link example: <http://makedonski.info/letter/к/крштелен/кубира>`, from those links we extract lexemes.  
+then we extract words' menu and form links for each menu string, from those links we extract lexemes  
+`link example: <http://makedonski.info/letter/к/крштелен/кубира>`.  
 As the result of the firs part we form links for all lexemes, presented in the dictionary  
 `link example: <http://makedonski.info/show/крштење>` 
 
